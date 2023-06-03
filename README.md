@@ -10,6 +10,10 @@
 - 💬 Ask me about **𝙅𝙨 , 𝙍𝙚𝙖𝙘𝙩 , 𝙉𝙤𝙙𝙚 , 𝙀𝙭𝙥𝙧𝙚𝙨𝙨 , 𝙈𝙤𝙣𝙜𝙤𝘿𝘽 , **
 - 🧐 Looking for a opportunity to transition as a entry-level professional in Software Development industry
 
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+</p>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
@@ -35,7 +39,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sowmya-krishnan-140105243"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sowmya%20krishnan-blue?style=flat-square&logo=linkedin"></a>a
+<a href="https://www.linkedin.com/in/sowmya-krishnan-140105243"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sowmya%20krishnan-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sowmikrish.crazy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sowmikrish.crazy@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
