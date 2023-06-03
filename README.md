@@ -28,17 +28,12 @@
 
 <br/>
 
-<a href="https://github.com/Sowmya-Krish">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sowmya-Krish&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmya-Krish&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sowmya-krishnan-140105243"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sowmya%20Krishnan%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sowmya-krishnan-140105243"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sowmya%20%Krishnan-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sowmikrish.crazy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sowmikrish.crazy@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
