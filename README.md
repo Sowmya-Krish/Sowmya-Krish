@@ -10,7 +10,6 @@
 - 💬 Ask me about **𝙅𝙨 , 𝙍𝙚𝙖𝙘𝙩 , 𝙉𝙤𝙙𝙚 , 𝙀𝙭𝙥𝙧𝙚𝙨𝙨 , 𝙈𝙤𝙣𝙜𝙤𝘿𝘽 , **
 - 🧐 Looking for a opportunity to transition as a entry-level professional in Software Development industry
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-<h3> 🛠 &nbsp;Tech Stack</h3>
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -24,10 +23,8 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
 
 <br/>
 <br/>
