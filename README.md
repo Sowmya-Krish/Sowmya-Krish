@@ -8,7 +8,7 @@
 - 💬 Ask me about **𝙅𝙨 , 𝙍𝙚𝙖𝙘𝙩 , 𝙉𝙤𝙙𝙚 , 𝙀𝙭𝙥𝙧𝙚𝙨𝙨 , 𝙈𝙤𝙣𝙜𝙤𝘿𝘽 , **
 - 🧐 Looking for a opportunity to transition as a entry-level professional in Software Development industry
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
+<p></p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
