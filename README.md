@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Sowmya-Krish/Sowmya-Krish/master/assets/Sowmya%20Krish%20nan%20Banner.png">
 <h2> Hello world!!!🌎🌎😎😍🤩🥰  I'm Sowmya </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
