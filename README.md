@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Sowmya</h2>
+<h2> Helloooooooooo world! I'm Sowmya</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -36,4 +35,3 @@
 <a href="mailto:sowmikrish.crazy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sowmikrish.crazy@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Sowmya-Krish](https://github.com/Sowmya-Krish)
