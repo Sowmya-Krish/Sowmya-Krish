@@ -32,7 +32,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/sowmya-krishnan-140105243"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sowmya-krishnan-140105243"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sowmya%20krish%20nan-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sowmikrish.crazy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sowmikrish.crazy@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
